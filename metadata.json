@@ -1,0 +1,9 @@
+{
+  "name": "Force Phone Mode",
+  "description": "Force the phone mode on GNOME Shell Mobile. Useful for testing GNOME Shell Mobile on non-mobile devices.",
+  "uuid": "force-phone-mode@vixalien.com",
+  "session-modes": ["user", "unlock-dialog"],
+  "shell-version": [
+    "45"
+  ]
+}
