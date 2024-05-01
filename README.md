@@ -10,3 +10,23 @@ crash with the following error on normal GNOME:
 ```
 Main.layoutManager._updateIsPhone is not a function
 ```
+
+## Install
+
+To install this extension, clone this repo into `~/.local/share/gnome-shell/extensions/force-phone-mode@vixalien.com`.
+
+```sh
+git clone https://github.com/vixalien/force-phone-mode.git ~/.local/share/gnome-shell/extensions/force-phone-mode@vixalien.com
+```
+
+## Update
+
+```sh
+cd ~/.local/share/gnome-shell/extensions/force-phone-mode@vixalien.com && git pull
+```
+
+## Uninstall
+
+```sh
+rm -rf ~/.local/share/gnome-shell/extensions/force-phone-mode@vixalien.com
+```
