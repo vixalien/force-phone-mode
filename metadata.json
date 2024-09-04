@@ -4,6 +4,7 @@
   "uuid": "force-phone-mode@vixalien.com",
   "session-modes": ["user", "unlock-dialog"],
   "shell-version": [
-    "45"
+    "45",
+    "46"
   ]
 }
