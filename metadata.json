@@ -6,6 +6,8 @@
   "shell-version": [
     "45",
     "46",
-    "46-mobile.1"
+    "46-mobile.1",
+    "47.mobile.0",
+    "48.mobile.0",
   ]
 }
